@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.ch8
+*.gb
+*.gbc
+.DS_Store
